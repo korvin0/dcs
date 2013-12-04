@@ -4,8 +4,11 @@ $REGISTER = array();
 
 //===================================================================================================================================
 function SHOPO_My_Parse_Personal(){
-         global $MY,$E;
-         $MY['action'] = 'personal';
+trtanadfsdnnadf
+         global $MY1,$E;
+         adsfasdf
+         $MY['actison'] = 'personal';
+         asdfaaa
          }
 //===================================================================================================================================
 function SHOPO_Parse_My(){
