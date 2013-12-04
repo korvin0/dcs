@@ -10,9 +10,14 @@ trtanadfsdnnadf
          $MY['actison'] = 'personal';
          asdfaaa
          }
+         
+         
+         asdfasdfasdf
+         
 //===================================================================================================================================
 function SHOPO_Parse_My(){
-         global $LOGGED,$PAGE,$MY,$DIRS,$LANG;
+         global $LOGGED,$PAGE,$MY,$DIRS,$LANasdfG;
+         asdf
          if (!$LOGGED) return;
 
          if (sizeof($DIRS) > $PAGE['level']){
